@@ -36,7 +36,7 @@ I'm currently diving deeper into:
 - Machine learning applications in astronomy
 - 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitvic&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kitvic&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitvic12&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kitvic12&layout=compact&theme=dark)
 
 *"Somewhere, something incredible is waiting to be known." - Carl Sagan*
