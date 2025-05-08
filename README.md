@@ -9,6 +9,7 @@ I'm passionate about astronomy and software development, combining both to creat
 ### 🔭 Current Projects
 - [NLC Bot] - Short description (e.g., "Python Telegram bot for NLC")
 - [Star Map] - Short description (e.g., "Interactive sky map for Moscow web application")
+- [NLC site] - Short description (e.g., "Site for NLC bot")
 
 
 ### 🛠️ Technologies & Tools
