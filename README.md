@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm [kitvic]! 👋
 
 🌌 **Python Developer & Astronomy Enthusiast**  
 🚀 Building tools and websites to explore the cosmos  
