@@ -10,6 +10,8 @@ I'm passionate about astronomy and software development, combining both to creat
 - [NLC Bot] - Short description (e.g., "Python Telegram bot for NLC")
 - [NLC site] - Short description (e.g., "Site for NLC bot")
 - [NLC-App] - Short description (e.g., "Mobile Application for NLC bot")
+
+  
 Each of them is part of the "NLC Cluster by Kitvic" project for tracking noctilucent clouds(NLC)
 
 ### 🛠️ Technologies & Tools
